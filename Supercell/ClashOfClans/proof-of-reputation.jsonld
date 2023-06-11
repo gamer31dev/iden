@@ -5,14 +5,14 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "Gamer31SupercellId": {
-        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/proof-of-reputation.jsonld#ProofOfMembership",
+      "Gamer31-ClashOfClans-ID": {
+        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation.jsonld#ProofOfMembership",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/proof-of-reputation-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "playerLevel": {
             "@id": "vocab:playerLevel",

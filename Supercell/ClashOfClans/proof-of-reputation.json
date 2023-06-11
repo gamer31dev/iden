@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/proof-of-reputation.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/proof-of-reputation.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation.json"
     }
   },
   "required": [
