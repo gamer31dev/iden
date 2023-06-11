@@ -140,7 +140,7 @@
         "BuilderHallLevel": {
           "type": "integer"
         },
-        "AtttackWins": {
+        "AttackWins": {
           "type": "integer"
         },
         "DefenseWins": {
