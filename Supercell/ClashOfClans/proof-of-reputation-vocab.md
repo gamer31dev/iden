@@ -1,59 +1,59 @@
-# PlayerLevel
+# playerLevel
 
 Describes player Level
 
-# PlayerTrophies
+# playerTrophies
 
 Describes player Trophies
 
-# TownHallLevel
+# townHallLevel
 
 Describes player Town Hall level
 
-# BuilderHallLevel
+# builderHallLevel
 
 Describes player Builder Hall Level
 
-# AttackWins
+# attackWins
 
 Describes Attack Wins
 
-# DefenseWins
+# defenseWins
 
 Describes Defense Wins
 
-# LeagueID
+# leagueID
 
 Describes Player League ID
 
-# AchievementsCount
+# achievementsCount
 
 Describes Player Achievements Count
 
-# TroopsCount
+# troopsCount
 
 Describes Player Troops Count
 
-# HeroesCount
+# heroesCount
 
 Describes Player Heores Count
 
-# SpellsCount
+# spellsCount
 
 Describes Player Spells Count
 
-# Donations
+# donations
 
 Describes Player Donations
 
-# DonationsReceived
+# donationsReceived
 
 Describes Player Donations Received
 
-# HasClan
+# hasClan
 
 Describes If Player is in Clan
 
-# ClanLevel
+# clanLevel
 
 Describes Player Clan Level

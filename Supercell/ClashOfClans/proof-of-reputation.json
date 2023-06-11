@@ -106,8 +106,8 @@
       "type": "object",
       "required": [
         "id",
-        "PlayerLevel",
-        "PlayerTrophies"
+        "playerLevel",
+        "playerTrophies"
       ],
       "properties": {
         "id": {
