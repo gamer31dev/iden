@@ -14,64 +14,64 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "PlayerLevel": {
-            "@id": "vocab:PlayerLevel",
+          "playerLevel": {
+            "@id": "vocab:playerLevel",
             "@type": "xsd:integer"
           },
-          "PlayerTrophies": {
-            "@id": "vocab:PlayerTrophies",
+          "playerTrophies": {
+            "@id": "vocab:playerTrophies",
             "@type": "xsd:integer"
           },
-          "TownHallLevel": {
-            "@id": "vocab:TownHallLevel",
+          "townHallLevel": {
+            "@id": "vocab:townHallLevel",
             "@type": "xsd:integer"
           },
-          "BuilderHallLevel": {
-            "@id": "vocab:BuilderHallLevel",
+          "builderHallLevel": {
+            "@id": "vocab:builderHallLevel",
             "@type": "xsd:integer"
           },
-          "AttackWins": {
-            "@id": "vocab:AttackWins",
+          "attackWins": {
+            "@id": "vocab:attackWins",
             "@type": "xsd:integer"
           },
-          "DefenseWins": {
-            "@id": "vocab:DefenseWins",
+          "defenseWins": {
+            "@id": "vocab:defenseWins",
             "@type": "xsd:integer"
           },
-          "LeagueID": {
-            "@id": "vocab:LeagueID",
+          "leagueID": {
+            "@id": "vocab:leagueID",
             "@type": "xsd:integer"
           },
-          "AchievementsCount": {
-            "@id": "vocab:AchievementsCount",
+          "achievementsCount": {
+            "@id": "vocab:achievementsCount",
             "@type": "xsd:integer"
           },
-          "TroopsCount": {
-            "@id": "vocab:TroopsCount",
+          "troopsCount": {
+            "@id": "vocab:troopsCount",
             "@type": "xsd:integer"
           },
-          "HeroesCount": {
-            "@id": "vocab:HeroesCount",
+          "heroesCount": {
+            "@id": "vocab:heroesCount",
             "@type": "xsd:integer"
           },
-          "SpellsCount": {
-            "@id": "vocab:SpellsCount",
+          "spellsCount": {
+            "@id": "vocab:spellsCount",
             "@type": "xsd:integer"
           },
-          "Donations": {
-            "@id": "vocab:Donations",
+          "donations": {
+            "@id": "vocab:donations",
             "@type": "xsd:integer"
           },
-          "DonationsReceived": {
-            "@id": "vocab:DonationsReceived",
+          "donationsReceived": {
+            "@id": "vocab:donationsReceived",
             "@type": "xsd:integer"
           },
-          "HasClan": {
-            "@id": "vocab:HasClan",
+          "hasClan": {
+            "@id": "vocab:hasClan",
             "@type": "xsd:integer"
           },
-          "ClanLevel": {
-            "@id": "vocab:ClanLevel",
+          "clanLevel": {
+            "@id": "vocab:clanLevel",
             "@type": "xsd:integer"
           }
         }
