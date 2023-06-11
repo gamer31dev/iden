@@ -148,16 +148,16 @@
         "spellsCount": {
           "type": "integer"
         },
-        "Donations": {
+        "donations": {
           "type": "integer"
         },
-        "DonationsReceived": {
+        "donationsReceived": {
           "type": "integer"
         },
-        "HasClan": {
+        "hasClan": {
           "type": "integer"
         },
-        "ClanLevel": {
+        "clanLevel": {
           "type": "integer"
         }
       }
