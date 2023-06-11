@@ -116,48 +116,6 @@
         },
         "PlayerLevel": {
           "type": "integer"
-        },
-        "PlayerTrophies": {
-          "type": "integer"
-        },
-        "TownHallLevel": {
-          "type": "integer"
-        },
-        "BuilderHallLevel": {
-          "type": "integer"
-        },
-        "AttackWins": {
-          "type": "integer"
-        },
-        "DefenseWins": {
-          "type": "integer"
-        },
-        "LeagueID": {
-          "type": "integer"
-        },
-        "AchievementsCount": {
-          "type": "integer"
-        },
-        "TroopsCount": {
-          "type": "integer"
-        },
-        "HeroesCount": {
-          "type": "integer"
-        },
-        "SpellsCount": {
-          "type": "integer"
-        },
-        "Donations": {
-          "type": "integer"
-        },
-        "DonationsReceived": {
-          "type": "integer"
-        },
-        "HasClan": {
-          "type": "integer"
-        },
-        "ClanLevel": {
-          "type": "integer"
         }
       }
     }

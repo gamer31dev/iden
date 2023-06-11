@@ -17,62 +17,6 @@
           "PlayerLevel": {
             "@id": "vocab:PlayerLevel",
             "@type": "xsd:integer"
-          },
-          "PlayerTrophies": {
-            "@id": "vocab:PlayerTrophies",
-            "@type": "xsd:integer"
-          },
-          "TownHallLevel": {
-            "@id": "vocab:TownHallLevel",
-            "@type": "xsd:integer"
-          },
-          "BuilderHallLevel": {
-            "@id": "vocab:BuilderHallLevel",
-            "@type": "xsd:integer"
-          },
-          "AttackWins": {
-            "@id": "vocab:AttackWins",
-            "@type": "xsd:integer"
-          },
-          "DefenseWins": {
-            "@id": "vocab:DefenseWins",
-            "@type": "xsd:integer"
-          },
-          "LeagueID": {
-            "@id": "vocab:LeagueID",
-            "@type": "xsd:integer"
-          },
-          "AchievementsCount": {
-            "@id": "vocab:AchievementsCount",
-            "@type": "xsd:integer"
-          },
-          "TroopsCount": {
-            "@id": "vocab:TroopsCount",
-            "@type": "xsd:integer"
-          },
-          "HeroesCount": {
-            "@id": "vocab:HeroesCount",
-            "@type": "xsd:integer"
-          },
-          "SpellsCount": {
-            "@id": "vocab:SpellsCount",
-            "@type": "xsd:integer"
-          },
-          "Donations": {
-            "@id": "vocab:Donations",
-            "@type": "xsd:integer"
-          },
-          "DonationsReceived": {
-            "@id": "vocab:DonationsReceived",
-            "@type": "xsd:integer"
-          },
-          "HasClan": {
-            "@id": "vocab:HasClan",
-            "@type": "xsd:integer"
-          },
-          "ClanLevel": {
-            "@id": "vocab:ClanLevel",
-            "@type": "xsd:integer"
           }
         }
       }
