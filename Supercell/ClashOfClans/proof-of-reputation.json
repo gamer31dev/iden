@@ -106,8 +106,21 @@
       "type": "object",
       "required": [
         "id",
-        "playerXP",
-        "playerLevel"
+        "PlayerLevel",
+        "PlayerTrophies",
+        "TownHallLevel",
+        "BuilderHallLevel",
+        "AtttackWins",
+        "DefenseWins",
+        "LeagueID",
+        "AchievementsCount",
+        "TroopsCount",
+        "HeroesCount",
+        "SpellsCount",
+        "Donations",
+        "DonationsReceived",
+        "HasClan",
+        "ClanLevel"
       ],
       "properties": {
         "id": {
@@ -115,10 +128,49 @@
           "type": "string",
           "format": "uri"
         },
-        "playerXP": {
+        "playerLevel": {
           "type": "integer"
         },
-        "playerLevel": {
+        "PlayerTrophies": {
+          "type": "integer"
+        },
+        "TownHallLevel": {
+          "type": "integer"
+        },
+        "BuilderHallLevel": {
+          "type": "integer"
+        },
+        "AtttackWins": {
+          "type": "integer"
+        },
+        "DefenseWins": {
+          "type": "integer"
+        },
+        "LeagueID": {
+          "type": "integer"
+        },
+        "AchievementsCount": {
+          "type": "integer"
+        },
+        "TroopsCount": {
+          "type": "integer"
+        },
+        "HeroesCount": {
+          "type": "integer"
+        },
+        "SpellsCount": {
+          "type": "integer"
+        },
+        "Donations": {
+          "type": "integer"
+        },
+        "DonationsReceived": {
+          "type": "integer"
+        },
+        "HasClan": {
+          "type": "integer"
+        },
+        "ClanLevel": {
           "type": "integer"
         }
       }
