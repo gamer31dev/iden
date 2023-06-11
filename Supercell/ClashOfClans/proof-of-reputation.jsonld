@@ -5,8 +5,8 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "Gamer31-ClashOfClans-ID": {
-        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation.jsonld#ProofOfMembership",
+      "Gamer31ClashOfClansID": {
+        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation.jsonld#ProofOfReputation",
         "@context": {
           "@version": 1.1,
           "@protected": true,
