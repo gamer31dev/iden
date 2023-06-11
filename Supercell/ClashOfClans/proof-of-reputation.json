@@ -115,25 +115,25 @@
           "type": "string",
           "format": "uri"
         },
-        "PlayerLevel": {
+        "playerLevel": {
           "type": "integer"
         },
-        "PlayerTrophies": {
+        "playerTrophies": {
           "type": "integer"
         },
-        "TownHallLevel": {
+        "townHallLevel": {
           "type": "integer"
         },
-        "BuilderHallLevel": {
+        "builderHallLevel": {
           "type": "integer"
         },
-        "AttackWins": {
+        "attackWins": {
           "type": "integer"
         },
-        "DefenseWins": {
+        "defenseWins": {
           "type": "integer"
         },
-        "LeagueID": {
+        "leagueID": {
           "type": "integer"
         },
         "AchievementsCount": {
