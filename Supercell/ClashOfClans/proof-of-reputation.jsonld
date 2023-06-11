@@ -14,8 +14,8 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashOfClans/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "playerLevel": {
-            "@id": "vocab:playerLevel",
+          "PlayerLevel": {
+            "@id": "vocab:PlayerLevel",
             "@type": "xsd:integer"
           },
           "PlayerTrophies": {
