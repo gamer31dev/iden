@@ -114,7 +114,7 @@
           "type": "string",
           "format": "uri"
         },
-        "PlayerLevel": {
+        "playerLevel": {
           "type": "integer"
         }
       }

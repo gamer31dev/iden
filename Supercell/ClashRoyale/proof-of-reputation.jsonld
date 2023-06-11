@@ -5,8 +5,8 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "Gamer31-ClashRoyale-ID": {
-        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashRoyale/proof-of-reputation.jsonld#ProofOfMembership",
+      "Gamer31ClashRoyaleID": {
+        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashRoyale/proof-of-reputation.jsonld#ProofOfReputation",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -14,8 +14,8 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashRoyale/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "PlayerLevel": {
-            "@id": "vocab:PlayerLevel",
+          "playerLevel": {
+            "@id": "vocab:playerLevel",
             "@type": "xsd:integer"
           }
         }
