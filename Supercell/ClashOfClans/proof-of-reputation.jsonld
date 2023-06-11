@@ -30,8 +30,8 @@
             "@id": "vocab:BuilderHallLevel",
             "@type": "xsd:integer"
           },
-          "AtttackWins": {
-            "@id": "vocab:AtttackWins",
+          "AttackWins": {
+            "@id": "vocab:AttackWins",
             "@type": "xsd:integer"
           },
           "DefenseWins": {

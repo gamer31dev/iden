@@ -14,7 +14,7 @@ Describes player Town Hall level
 
 Describes player Builder Hall Level
 
-# AtttackWins
+# AttackWins
 
 Describes Attack Wins
 
