@@ -136,16 +136,16 @@
         "leagueID": {
           "type": "integer"
         },
-        "AchievementsCount": {
+        "achievementsCount": {
           "type": "integer"
         },
-        "TroopsCount": {
+        "troopsCount": {
           "type": "integer"
         },
-        "HeroesCount": {
+        "heroesCount": {
           "type": "integer"
         },
-        "SpellsCount": {
+        "spellsCount": {
           "type": "integer"
         },
         "Donations": {
