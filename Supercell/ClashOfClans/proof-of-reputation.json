@@ -107,20 +107,7 @@
       "required": [
         "id",
         "PlayerLevel",
-        "PlayerTrophies",
-        "TownHallLevel",
-        "BuilderHallLevel",
-        "AttackWins",
-        "DefenseWins",
-        "LeagueID",
-        "AchievementsCount",
-        "TroopsCount",
-        "HeroesCount",
-        "SpellsCount",
-        "Donations",
-        "DonationsReceived",
-        "HasClan",
-        "ClanLevel"
+        "PlayerTrophies"
       ],
       "properties": {
         "id": {
