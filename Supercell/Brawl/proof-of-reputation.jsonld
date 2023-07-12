@@ -14,12 +14,40 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/Brawl/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "ExpLevel": {
-            "@id": "vocab:ExpLevel",
+          "expLevel": {
+            "@id": "vocab:expLevel",
             "@type": "xsd:integer"
           },
-          "ExpPoints": {
-            "@id": "vocab:ExpPoints",
+          "expPoints": {
+            "@id": "vocab:expPoints",
+            "@type": "xsd:integer"
+          },
+          "trophies": {
+            "@id": "vocab:trophies",
+            "@type": "xsd:integer"
+          },
+          "highestTrophies": {
+            "@id": "vocab:highestTrophies",
+            "@type": "xsd:integer"
+          },
+          "soloVictories": {
+            "@id": "vocab:soloVictories",
+            "@type": "xsd:integer"
+          },
+          "duoVictories": {
+            "@id": "vocab:duoVictories",
+            "@type": "xsd:integer"
+          },
+          "bestRoboRumbleTime": {
+            "@id": "vocab:bestRoboRumbleTime",
+            "@type": "xsd:integer"
+          },
+          "bestTimeAsBigBrawler": {
+            "@id": "vocab:bestTimeAsBigBrawler",
+            "@type": "xsd:integer"
+          },
+          "brawlersCount": {
+            "@id": "vocab:brawlersCount",
             "@type": "xsd:integer"
           }
         }

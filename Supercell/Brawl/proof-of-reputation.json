@@ -119,6 +119,27 @@
         },
         "expPoints": {
           "type": "integer"
+        },
+        "trophies": {
+          "type": "integer"
+        },
+        "highestTrophies": {
+          "type": "integer"
+        },
+        "soloVictories": {
+          "type": "integer"
+        },
+        "duoVictories": {
+          "type": "integer"
+        },
+        "bestRoboRumbleTime": {
+          "type": "integer"
+        },
+        "bestTimeAsBigBrawler": {
+          "type": "integer"
+        },
+        "brawlersCount": {
+          "type": "integer"
         }
       }
     }
