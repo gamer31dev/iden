@@ -1,59 +1,91 @@
-# playerLevel
+# expLevel
 
-Describes player Level
+Describes Player Experience Level
 
-# PlayerTrophies
+# trophies
 
-Describes player Trophies
+Describes trophies
 
-# TownHallLevel
+# bestTrophies
 
-Describes player Town Hall level
+Describes bestTrophies
 
-# BuilderHallLevel
+# wins
 
-Describes player Builder Hall Level
+Describes Player wins
 
-# AttackWins
+# losses
 
-Describes Attack Wins
+Describes Player losses
 
-# DefenseWins
+# battleCount
 
-Describes Defense Wins
+Describes total battle count
 
-# LeagueID
+# threeCrownWins
 
-Describes Player League ID
+Describes total three crown wins
 
-# AchievementsCount
+# challengeCardsWon
 
-Describes Player Achievements Count
+Describes challengeCardsWon
 
-# TroopsCount
+# challengeMaxWins
 
-Describes Player Troops Count
+Describes challengeMaxWins
 
-# HeroesCount
+# tournamentCardsWon
 
-Describes Player Heores Count
+Describes tournamentCardsWon
 
-# SpellsCount
+# tournamentBattleCount
 
-Describes Player Spells Count
+Describes tournamentBattleCount
 
-# Donations
+# donations
 
-Describes Player Donations
+Describes donations
 
-# DonationsReceived
+# donationsReceived
 
-Describes Player Donations Received
+Describes donationsReceived
 
-# HasClan
+# totalDonations
 
-Describes If Player is in Clan
+Describes totalDonations
 
-# ClanLevel
+# warDayWins
 
-Describes Player Clan Level
+Describes warDayWins
+
+# clanCardsCollected
+
+Describes clanCardsCollected
+
+# starPoints
+
+Describes starPoints
+
+# expPoints
+
+Describes expPoints
+
+# legacyTrophyRoadHighScore
+
+Describes legacyTrophyRoadHighScore
+
+# currentPathOfLegendSeasonResult
+
+Describes currentPathOfLegendSeasonResult
+
+# lastPathOfLegendSeasonResult
+
+Describes lastPathOfLegendSeasonResult
+
+# bestPathOfLegendSeasonResult
+
+Describes bestPathOfLegendSeasonResult
+
+# totalExpPoints
+
+Describes totalExpPoints

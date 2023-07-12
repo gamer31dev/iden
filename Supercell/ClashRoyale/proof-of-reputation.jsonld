@@ -14,8 +14,100 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Supercell/ClashRoyale/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "playerLevel": {
-            "@id": "vocab:playerLevel",
+          "expLevel": {
+            "@id": "vocab:expLevel",
+            "@type": "xsd:integer"
+          },
+          "trophies": {
+            "@id": "vocab:trophies",
+            "@type": "xsd:integer"
+          },
+          "bestTrophies": {
+            "@id": "vocab:bestTrophies",
+            "@type": "xsd:integer"
+          },
+          "wins": {
+            "@id": "vocab:wins",
+            "@type": "xsd:integer"
+          },
+          "losses": {
+            "@id": "vocab:losses",
+            "@type": "xsd:integer"
+          },
+          "battleCount": {
+            "@id": "vocab:battleCount",
+            "@type": "xsd:integer"
+          },
+          "threeCrownWins": {
+            "@id": "vocab:threeCrownWins",
+            "@type": "xsd:integer"
+          },
+          "challengeCardsWon": {
+            "@id": "vocab:challengeCardsWon",
+            "@type": "xsd:integer"
+          },
+          "challengeMaxWins": {
+            "@id": "vocab:challengeMaxWins",
+            "@type": "xsd:integer"
+          },
+          "tournamentCardsWon": {
+            "@id": "vocab:tournamentCardsWon",
+            "@type": "xsd:integer"
+          },
+          "tournamentBattleCount": {
+            "@id": "vocab:tournamentBattleCount",
+            "@type": "xsd:integer"
+          },
+          "donations": {
+            "@id": "vocab:donations",
+            "@type": "xsd:integer"
+          },
+          "donationsReceived": {
+            "@id": "vocab:donationsReceived",
+            "@type": "xsd:integer"
+          },
+          "totalDonations": {
+            "@id": "vocab:totalDonations",
+            "@type": "xsd:integer"
+          },
+          "warDayWins": {
+            "@id": "vocab:warDayWins",
+            "@type": "xsd:integer"
+          },
+          "clanCardsCollected": {
+            "@id": "vocab:clanCardsCollected",
+            "@type": "xsd:integer"
+          },
+          "arenaName": {
+            "@id": "vocab:arenaName",
+            "@type": "xsd:string"
+          },
+          "arenaId": {
+            "@id": "vocab:arenaId",
+            "@type": "xsd:integer"
+          },
+          "badgesCount": {
+            "@id": "vocab:badgesCount",
+            "@type": "xsd:integer"
+          },
+          "achievementsCount": {
+            "@id": "vocab:achievementsCount",
+            "@type": "xsd:integer"
+          },
+          "cardsCount": {
+            "@id": "vocab:cardsCount",
+            "@type": "xsd:integer"
+          },
+          "starPoints": {
+            "@id": "vocab:starPoints",
+            "@type": "xsd:integer"
+          },
+          "expPoints": {
+            "@id": "vocab:expPoints",
+            "@type": "xsd:integer"
+          },
+          "totalExpPoints": {
+            "@id": "vocab:totalExpPoints",
             "@type": "xsd:integer"
           }
         }

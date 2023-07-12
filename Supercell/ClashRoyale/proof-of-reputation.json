@@ -114,7 +114,76 @@
           "type": "string",
           "format": "uri"
         },
-        "playerLevel": {
+        "expLevel": {
+          "type": "integer"
+        },
+        "trophies": {
+          "type": "integer"
+        },
+        "bestTrophies": {
+          "type": "integer"
+        },
+        "wins": {
+          "type": "integer"
+        },
+        "losses": {
+          "type": "integer"
+        },
+        "battleCount": {
+          "type": "integer"
+        },
+        "threeCrownWins": {
+          "type": "integer"
+        },
+        "challengeCardsWon": {
+          "type": "integer"
+        },
+        "challengeMaxWins": {
+          "type": "integer"
+        },
+        "tournamentCardsWon": {
+          "type": "integer"
+        },
+        "tournamentBattleCount": {
+          "type": "integer"
+        },
+        "donations": {
+          "type": "integer"
+        },
+        "donationsReceived": {
+          "type": "integer"
+        },
+        "totalDonations": {
+          "type": "integer"
+        },
+        "warDayWins": {
+          "type": "integer"
+        },
+        "clanCardsCollected": {
+          "type": "integer"
+        },
+        "arenaName": {
+          "type": "string"
+        },
+        "arenaId": {
+          "type": "integer"
+        },
+        "badgesCount": {
+          "type": "integer"
+        },
+        "achievementsCount": {
+          "type": "integer"
+        },
+        "cardsCount": {
+          "type": "integer"
+        },
+        "starPoints": {
+          "type": "integer"
+        },
+        "expPoints": {
+          "type": "integer"
+        },
+        "totalExpPoints": {
           "type": "integer"
         }
       }
