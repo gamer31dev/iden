@@ -106,7 +106,7 @@
       "type": "object",
       "required": [
         "id",
-        "PlayerLevel"
+        "expLevel"
       ],
       "properties": {
         "id": {
