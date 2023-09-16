@@ -182,6 +182,51 @@
         },
         "rapidProv": {
           "type": "boolean"
+        },
+        "bulletGames": {
+          "type": "integer"
+        },
+        "bulletRating": {
+          "type": "integer"
+        },
+        "bulletRd": {
+          "type": "integer"
+        },
+        "bulletProg": {
+          "type": "integer"
+        },
+        "bulletProv": {
+          "type": "boolean"
+        },
+        "classicalGames": {
+          "type": "integer"
+        },
+        "classicalRating": {
+          "type": "integer"
+        },
+        "classicalRd": {
+          "type": "integer"
+        },
+        "classicalProg": {
+          "type": "integer"
+        },
+        "classicalProv": {
+          "type": "boolean"
+        },
+        "correspondenceGames": {
+          "type": "integer"
+        },
+        "correspondenceRating": {
+          "type": "integer"
+        },
+        "correspondenceRd": {
+          "type": "integer"
+        },
+        "correspondenceProg": {
+          "type": "integer"
+        },
+        "correspondenceProv": {
+          "type": "boolean"
         }
       }
     }

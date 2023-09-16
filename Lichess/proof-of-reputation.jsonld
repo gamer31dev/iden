@@ -14,7 +14,6 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Lichess/proof-of-reputation-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-
           "createdAt": {
             "@id": "vocab:CreatedAt",
             "@type": "xsd:integer"
@@ -31,7 +30,6 @@
             "@id": "vocab:PlayTimeTv",
             "@type": "xsd:integer"
           },
-
           "totalGamesPlayed": {
             "@id": "vocab:TotalGamesPlayed",
             "@type": "xsd:integer"
@@ -68,7 +66,6 @@
             "@id": "vocab:TotalWinH",
             "@type": "xsd:integer"
           },
-
           "blitzGames": {
             "@id": "vocab:BlitzGames",
             "@type": "xsd:integer"
@@ -107,6 +104,66 @@
           },
           "rapidProv": {
             "@id": "vocab:RapidProv",
+            "@type": "xsd:boolean"
+          },
+          "classicalGames": {
+            "@id": "vocab:ClassicalGames",
+            "@type": "xsd:integer"
+          },
+          "classicalRating": {
+            "@id": "vocab:ClassicalRating",
+            "@type": "xsd:integer"
+          },
+          "classicalRd": {
+            "@id": "vocab:ClassicalRd",
+            "@type": "xsd:integer"
+          },
+          "classicalProg": {
+            "@id": "vocab:ClassicalProg",
+            "@type": "xsd:integer"
+          },
+          "classicalProv": {
+            "@id": "vocab:ClassicalProv",
+            "@type": "xsd:boolean"
+          },
+          "bulletGames": {
+            "@id": "vocab:BulletGames",
+            "@type": "xsd:integer"
+          },
+          "bulletRating": {
+            "@id": "vocab:BulletRating",
+            "@type": "xsd:integer"
+          },
+          "bulletRd": {
+            "@id": "vocab:BulletRd",
+            "@type": "xsd:integer"
+          },
+          "bulletProg": {
+            "@id": "vocab:BulletProg",
+            "@type": "xsd:integer"
+          },
+          "bulletProv": {
+            "@id": "vocab:BulletProv",
+            "@type": "xsd:boolean"
+          },
+          "correspondenceGames": {
+            "@id": "vocab:CorrespondenceGames",
+            "@type": "xsd:integer"
+          },
+          "correspondenceRating": {
+            "@id": "vocab:CorrespondenceRating",
+            "@type": "xsd:integer"
+          },
+          "correspondenceRd": {
+            "@id": "vocab:CorrespondenceRd",
+            "@type": "xsd:integer"
+          },
+          "correspondenceProg": {
+            "@id": "vocab:CorrespondenceProg",
+            "@type": "xsd:integer"
+          },
+          "correspondenceProv": {
+            "@id": "vocab:CorrespondenceProv",
             "@type": "xsd:boolean"
           }
         }
