@@ -87,7 +87,7 @@
           },
           "blitzProv": {
             "@id": "vocab:BlitzProv",
-            "@type": "xsd:integer"
+            "@type": "xsd:boolean"
           },
 
           "rapidGames": {
@@ -108,7 +108,7 @@
           },
           "rapidProv": {
             "@id": "vocab:RapidProv",
-            "@type": "xsd:integer"
+            "@type": "xsd:boolean"
           }
         }
       }

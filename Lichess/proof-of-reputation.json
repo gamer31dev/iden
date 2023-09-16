@@ -166,7 +166,7 @@
           "type": "integer"
         },
         "blitzProv": {
-          "type": "integer"
+          "type": "boolean"
         },
 
         "rapidGames": {
@@ -182,7 +182,7 @@
           "type": "integer"
         },
         "rapidProv": {
-          "type": "integer"
+          "type": "boolean"
         }
       }
     }
