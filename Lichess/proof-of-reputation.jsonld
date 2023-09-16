@@ -1,0 +1,117 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "Gamer31LichessID": {
+        "@id": "https://raw.githubusercontent.com/gamer31dev/iden/main/Lichess/proof-of-reputation.jsonld#ProofOfReputation",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/gamer31dev/iden/main/Lichess/proof-of-reputation-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+          "createdAt": {
+            "@id": "vocab:CreatedAt",
+            "@type": "xsd:integer"
+          },
+          "seenAt": {
+            "@id": "vocab:SeenAt",
+            "@type": "xsd:integer"
+          },
+          "playTimeTotal": {
+            "@id": "vocab:PlayTimeTotal",
+            "@type": "xsd:integer"
+          },
+          "playTimeTv": {
+            "@id": "vocab:PlayTimeTv",
+            "@type": "xsd:integer"
+          },
+
+          "totalGamesPlayed": {
+            "@id": "vocab:TotalGamesPlayed",
+            "@type": "xsd:integer"
+          },
+          "totalGamesPlayedRated": {
+            "@id": "vocab:TotalGamesPlayedRated",
+            "@type": "xsd:integer"
+          },
+          "totalGamesPlayedAi": {
+            "@id": "vocab:TotalGamesPlayedAi",
+            "@type": "xsd:integer"
+          },
+          "totalDraw": {
+            "@id": "vocab:TotalDraw",
+            "@type": "xsd:integer"
+          },
+          "totalDrawH": {
+            "@id": "vocab:TotalDrawH",
+            "@type": "xsd:integer"
+          },
+          "totalLoss": {
+            "@id": "vocab:TotalLoss",
+            "@type": "xsd:integer"
+          },
+          "totalLossH": {
+            "@id": "vocab:TotalLossH",
+            "@type": "xsd:integer"
+          },
+          "totalWin": {
+            "@id": "vocab:TotalWin",
+            "@type": "xsd:integer"
+          },
+          "totalWinH": {
+            "@id": "vocab:TotalWinH",
+            "@type": "xsd:integer"
+          },
+
+          "blitzGames": {
+            "@id": "vocab:BlitzGames",
+            "@type": "xsd:integer"
+          },
+          "blitzRating": {
+            "@id": "vocab:BlitzRating",
+            "@type": "xsd:integer"
+          },
+          "blitzRd": {
+            "@id": "vocab:BlitzRd",
+            "@type": "xsd:integer"
+          },
+          "blitzProg": {
+            "@id": "vocab:BlitzProg",
+            "@type": "xsd:integer"
+          },
+          "blitzProv": {
+            "@id": "vocab:BlitzProv",
+            "@type": "xsd:integer"
+          },
+
+          "rapidGames": {
+            "@id": "vocab:RapidGames",
+            "@type": "xsd:integer"
+          },
+          "rapidRating": {
+            "@id": "vocab:RapidRating",
+            "@type": "xsd:integer"
+          },
+          "rapidRd": {
+            "@id": "vocab:RapidRd",
+            "@type": "xsd:integer"
+          },
+          "rapidProg": {
+            "@id": "vocab:RapidProg",
+            "@type": "xsd:integer"
+          },
+          "rapidProv": {
+            "@id": "vocab:RapidProv",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}

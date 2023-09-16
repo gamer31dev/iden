@@ -1,0 +1,190 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "$metadata": {
+    "uris": {
+      "jsonLdContext": "https://raw.githubusercontent.com/gamer31dev/iden/main/Lichess/proof-of-reputation.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/gamer31dev/iden/main/Lichess/proof-of-reputation.json"
+    }
+  },
+  "required": [
+    "@context",
+    "id",
+    "type",
+    "issuanceDate",
+    "credentialSubject",
+    "credentialSchema",
+    "credentialStatus",
+    "issuer"
+  ],
+  "properties": {
+    "@context": {
+      "type": [
+        "string",
+        "array",
+        "object"
+      ]
+    },
+    "id": {
+      "type": "string"
+    },
+    "type": {
+      "type": [
+        "string",
+        "array"
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "issuer": {
+      "type": [
+        "string",
+        "object"
+      ],
+      "format": "uri",
+      "required": [
+        "id"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "issuanceDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "expirationDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "credentialSchema": {
+      "type": "object",
+      "required": [
+        "id",
+        "type"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uri"
+        },
+        "type": {
+          "type": "string"
+        }
+      }
+    },
+    "subjectPosition": {
+      "type": "string",
+      "enum": [
+        "none",
+        "index",
+        "value"
+      ]
+    },
+    "merklizationRootPosition": {
+      "type": "string",
+      "enum": [
+        "none",
+        "index",
+        "value"
+      ]
+    },
+    "revNonce": {
+      "type": "integer"
+    },
+    "version": {
+      "type": "integer"
+    },
+    "updatable": {
+      "type": "boolean"
+    },
+    "credentialSubject": {
+      "type": "object",
+      "required": [
+        "id",
+        "createdAt"
+      ],
+      "properties": {
+        "id": {
+          "title": "Credential Subject ID",
+          "type": "string",
+          "format": "uri"
+        },
+        "createdAt": {
+          "type": "integer"
+        },
+        "seenAt": {
+          "type": "integer"
+        },
+        "playTimeTotal": {
+          "type": "integer"
+        },
+        "playTimeTv": {
+          "type": "integer"
+        },
+        "totalGamesPlayed": {
+          "type": "integer"
+        },
+        "totalGamesPlayedRated": {
+          "type": "integer"
+        },
+        "totalGamesPlayedAi": {
+          "type": "integer"
+        },
+        "totalDraw": {
+          "type": "integer"
+        },
+        "totalDrawH": {
+          "type": "integer"
+        },
+        "totalLoss": {
+          "type": "integer"
+        },
+        "totalLossH": {
+          "type": "integer"
+        },
+        "totalWin": {
+          "type": "integer"
+        },
+        "totalWinH": {
+          "type": "integer"
+        },
+        "blitzGames": {
+          "type": "integer"
+        },
+        "blitzRating": {
+          "type": "integer"
+        },
+        "blitzRd": {
+          "type": "integer"
+        },
+        "blitzProg": {
+          "type": "integer"
+        },
+        "blitzProv": {
+          "type": "integer"
+        },
+
+        "rapidGames": {
+          "type": "integer"
+        },
+        "rapidRating": {
+          "type": "integer"
+        },
+        "rapidRd": {
+          "type": "integer"
+        },
+        "rapidProg": {
+          "type": "integer"
+        },
+        "rapidProv": {
+          "type": "integer"
+        }
+      }
+    }
+  }
+}
