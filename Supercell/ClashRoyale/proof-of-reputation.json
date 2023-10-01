@@ -162,12 +162,6 @@
         "clanCardsCollected": {
           "type": "integer"
         },
-        "arenaName": {
-          "type": "string"
-        },
-        "arenaId": {
-          "type": "integer"
-        },
         "badgesCount": {
           "type": "integer"
         },

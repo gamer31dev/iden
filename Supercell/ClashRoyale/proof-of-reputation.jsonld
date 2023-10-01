@@ -78,14 +78,6 @@
             "@id": "vocab:clanCardsCollected",
             "@type": "xsd:integer"
           },
-          "arenaName": {
-            "@id": "vocab:arenaName",
-            "@type": "xsd:string"
-          },
-          "arenaId": {
-            "@id": "vocab:arenaId",
-            "@type": "xsd:integer"
-          },
           "badgesCount": {
             "@id": "vocab:badgesCount",
             "@type": "xsd:integer"
