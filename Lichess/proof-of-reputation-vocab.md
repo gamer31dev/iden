@@ -96,7 +96,7 @@ Describes Total Played Classical Games
 
 # ClassicalRating
 
-Describes Player's Classical Ratin
+Describes Player's Classical Rating
 
 # ClassicalRd
 
