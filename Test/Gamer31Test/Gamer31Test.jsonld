@@ -1,0 +1,23 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "Gamer31Steam": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:93d2a32e-8212-4c45-8b8f-6f82aa37f352#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "playerLevel": {
+                        "@id": "polygon-vocab:playerLevel",
+                        "@type": "xsd:double"
+                    }
+                },
+                "@id": "urn:uuid:4a37b34b-c7f2-4d63-a781-af350ccc6801"
+            }
+        }
+    ]
+}
